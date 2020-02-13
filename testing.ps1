@@ -1,6 +1,6 @@
 Clear-Host
 
-$first = "Bob"
-$last = "Bobberson"
+$first = "Billy"
+$last = "Billerson"
 $version = $PSVersionTable.PSVersion
 Write-Output "Hello $first $last, user of $version"
